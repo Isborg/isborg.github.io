@@ -11,5 +11,17 @@ This will mainly contain excerpts from the original text, so it should be a dece
 
 > The only people who understand what is going on are the ones most often blamed and least often heard: the students. They say, "Math class is stupid and boring," and they are right.
 
+a
+
 > If I'm in the mood to think about shapes - and I often am - I might imagine a triangle inside a rectangular box.
+
+![alt text](isborg.github.io/images/AMathematiciansLament/1.jpg)
+
+> If I chop the rectangle into two pieces like this, I can see that each piece is cut diagonally in half by the sides of the triangle. So there is just as much space inside the triangle as outside. That means that the triangle must take up exactly half the box!
+
+![alt text](isborg.github.io/images/AMathematiciansLament/2.jpg)
+
+> This is why it is so heartbreaking to see what is being done to mathematics in school. This rich and fascinating adventure of the imagination has been reduced to a sterile set of facts to be memorized and procedures to be followed. In place of a simple and natural question about shapes, and a creative and rewarding process of invention and discovery, students are treated to this.
+
+![alt text](isborg.github.io/images/AMathematiciansLament/3.jpg)
 
