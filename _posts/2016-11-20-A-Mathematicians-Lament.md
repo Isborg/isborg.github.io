@@ -47,15 +47,15 @@ This will mainly contain excerpts from the original text, so it should be a dece
 
 <br/><br/>
 
-> _STUDENT:_ I was thinking about our triangle problem, and I noticed something. If the triangle is really slanted then it *doesn't* take up half its box! See, look.
+> **STUDENT:** I was thinking about our triangle problem, and I noticed something. If the triangle is really slanted then it *doesn't* take up half its box! See, look.
 
 <div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/4.jpg" /></div>
 
-> _TEACHER:_ Excellent observation! Our chopping argument assumes that the tip of the triangle lies directly over the base. Now we need a new idea.
+> **TEACHER:** Excellent observation! Our chopping argument assumes that the tip of the triangle lies directly over the base. Now we need a new idea.
 <br/>
-> _STUDENT:_ Should I try chopping it a different way?
+> **STUDENT:** Should I try chopping it a different way?
 <br/>
-> _TEACHER:_ Absolutely. Try all sorts of ideas. Let me know what you come up with!
+> **TEACHER:** Absolutely. Try all sorts of ideas. Let me know what you come up with!
 <br/>
 > So how do we teach our students to do mathematics? By choosing engaging and natural problems suitable to their tastes, personalities, and level of experience. By giving them time to make discoveries and formulate conjectures. By helping them to refine their arguments and creating an atmosphere of healthy and vibrant mathematical criticism. By being flexible and open to sudden changes in direction to which their curiosity may lead. In short, by having an honest intellectual relationship with our students and our subject.
 <br/>
@@ -79,13 +79,13 @@ This will mainly contain excerpts from the original text, so it should be a dece
 
 <br/><br/>
 
-> Does any middle school algebra teacher have the slightest clue why he is asking his students to repgrase "the number *x* lies between three and seven" as |x - 5| < 2? Do these hopelessly inept textbook authors really believe they are helping students by preparing them for a possible day, years hence, when they might be operating within the context of a higher-dimensional geometry or an abstract metric space? I doubt it. I expect they are simply copying each other decade after decade, maybe changing the fonts or the highlight colors, and beaming with pride when a school system adops their book and becomes their unwitting accomplice.
+> Does any middle school algebra teacher have the slightest clue why he is asking his students to repgrase "the number *x* lies between three and seven" as &#124;x - 5&#124; < 2? Do these hopelessly inept textbook authors really believe they are helping students by preparing them for a possible day, years hence, when they might be operating within the context of a higher-dimensional geometry or an abstract metric space? I doubt it. I expect they are simply copying each other decade after decade, maybe changing the fonts or the highlight colors, and beaming with pride when a school system adops their book and becomes their unwitting accomplice.
 
 <br/><br/>
 
-> _SIMPLICIO:_ I'm getting tired of all your mystical mumbo-jumbo! Basic arithmetic, all right? Do you or do you not agree that students should learn it?
+> **SIMPLICIO:** I'm getting tired of all your mystical mumbo-jumbo! Basic arithmetic, all right? Do you or do you not agree that students should learn it?
 <br/>
-> _SALVIATI:_ That depends on what you mean by "it." If you mean having an appreciation for the problems of counting and arranging, the advantages of grouping and naming, the distinction between a representation and the thing itself, and some idea of the historical development of number systems, then yes, I do think our students should be exposed to such things. If you mean the rote memorization of arithmetic facts without any underlying conceptual framework, then no. If you mean exploring the not-at-all obvious fact that five groups of seven is the same as seven groups of five, then yes. If you mean making a rule that 5 × 7 = 7 × 5, then no. Doing mathematics should always mean discovering patterns and crafting beautiful and meaningful explanations.
+> **SALVIATI:** That depends on what you mean by "it." If you mean having an appreciation for the problems of counting and arranging, the advantages of grouping and naming, the distinction between a representation and the thing itself, and some idea of the historical development of number systems, then yes, I do think our students should be exposed to such things. If you mean the rote memorization of arithmetic facts without any underlying conceptual framework, then no. If you mean exploring the not-at-all obvious fact that five groups of seven is the same as seven groups of five, then yes. If you mean making a rule that 5 × 7 = 7 × 5, then no. Doing mathematics should always mean discovering patterns and crafting beautiful and meaningful explanations.
 
 <br/><br/>
 
@@ -136,6 +136,6 @@ This will mainly contain excerpts from the original text, so it should be a dece
 
 <div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/13.jpg" /></div>
 
-> _SIMPLICIO:_ All right, I'm thoroughly depressed. What now?
+> **SIMPLICIO:** All right, I'm thoroughly depressed. What now?
 <br/>
-> _SALVIATI:_ Well, I think I have an idea about a pyramid inside a cube...
+> **SALVIATI:** Well, I think I have an idea about a pyramid inside a cube...
