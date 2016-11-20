@@ -15,7 +15,7 @@ a
 
 > If I'm in the mood to think about shapes - and I often am - I might imagine a triangle inside a rectangular box.
 
-![](https://isborg.github.io/images/AMathematiciansLament/1.jpg =200x)
+![](/./../images/AMathematiciansLament/1.jpg =200x)
 
 > If I chop the rectangle into two pieces like this, I can see that each piece is cut diagonally in half by the sides of the triangle. So there is just as much space inside the triangle as outside. That means that the triangle must take up exactly half the box!
 
