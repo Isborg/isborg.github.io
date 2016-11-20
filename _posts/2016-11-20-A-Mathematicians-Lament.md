@@ -15,13 +15,13 @@ a
 
 > If I'm in the mood to think about shapes - and I often am - I might imagine a triangle inside a rectangular box.
 
-<div style="text-align:center"><img src="https://isbaum.com/images/AMathematiciansLament/1.jpg" /></div>
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/1.jpg" /></div>
 
 > If I chop the rectangle into two pieces like this, I can see that each piece is cut diagonally in half by the sides of the triangle. So there is just as much space inside the triangle as outside. That means that the triangle must take up exactly half the box!
 
-<div style="text-align:center"><img src="https://isbaum.com/images/AMathematiciansLament/2.jpg" /></div>
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/2.jpg" /></div>
 
 > This is why it is so heartbreaking to see what is being done to mathematics in school. This rich and fascinating adventure of the imagination has been reduced to a sterile set of facts to be memorized and procedures to be followed. In place of a simple and natural question about shapes, and a creative and rewarding process of invention and discovery, students are treated to this.
 
-<div style="text-align:center"><img src="https://isbaum.com/images/AMathematiciansLament/3.jpg" /></div>
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/3.jpg" /></div>
 
