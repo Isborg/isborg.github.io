@@ -9,3 +9,7 @@ The essay has inspired both possitive and negative responses regarding how math 
 
 This will mainly contain excerpts from the original text, so it should be a decent Sunday read, but I encourage you to read the real thing. If you want the full experience, [buy the book](https://www.amazon.com/Mathematicians-Lament-School-Fascinating-Imaginative/dp/1934137170). If you don't feel like spending any money or just don't care too much, try reading [the original 25-page essay](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf). If you're just bored or in transit, then fine, read this post instead, hopefully by the end you'll want to read more Lockhart (Paul, not Gilderoy).
 
+> The only people who understand what is going on are the ones most often blamed and least often heard: the students. They say, "Math class is stupid and boring," and they are right.
+
+> If I'm in the mood to think about shapes - and I often am - I might imagine a triangle inside a rectangular box.
+
