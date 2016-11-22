@@ -17,16 +17,15 @@ The book is divided in two parts, Lamentation explains what the current system l
 
 When I was a kid, I enjoyed multiplying by 2. I would get a pencil and a piece of paper, start with the number 1, and multiply by 2. At the time, I didn't realize I was creating a funky binary sequence by doing that:
 
-| Decimal       | Binary        |
-|:-------------:|:-------------:|
-| 1             | 1             |
-| 2             | 10            |
-| 4             | 100           |
-| 8             | 1000          |
-| 16            | 10000         |
-| 32            | 100000        |
-| 64            | 1000000       |
-| ...           | ...           |
+| **Decimal**       | **Binary**        |
+|:-----------------:|:-----------------:|
+| 1                 | 1                 |
+| 2                 | 10                |
+| 4                 | 100               |
+| 8                 | 1000              |
+| 16                | 10000             |
+| 32                | 100000            |
+| 64                | 1000000           |
 
 Did you ever play some kind of mathematical game with yourself? Did you ever enjoy thinking about shapes?
 
@@ -144,5 +143,9 @@ The second part of the book, Exultation, attempts to show us what we're missing 
 I will leave you with one final adventure for now.
 
 > Here are two points on one side of a straight line. The question is, what is the shortest path from one point to the other that touches the line?
+
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/14.jpg" /></div>
+
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/15.jpg" /></div>
 
 Let me know what you come up with!
