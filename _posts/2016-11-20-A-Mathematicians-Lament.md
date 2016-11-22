@@ -9,9 +9,28 @@ The essay has inspired both possitive and negative responses regarding how math 
 
 This will mainly contain excerpts from the original text, so it should be a decent Sunday read, but I encourage you to read the real thing. If you want the full experience, [buy the book](https://www.amazon.com/Mathematicians-Lament-School-Fascinating-Imaginative/dp/1934137170). If you don't feel like spending any money or just don't care too much, try reading [the original 25-page essay](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf). If you're just bored or in transit, then fine, read this post instead, hopefully by the end you'll want to read more Lockhart (Paul, not Gilderoy).
 
+### Lamentation
+
+The book is divided in two parts, Lamentation explains what the current system looks like, what children are put through week after week.
+
 > The only people who understand what is going on are the ones most often blamed and least often heard: the students. They say, "Math class is stupid and boring," and they are right.
 
-<br/><br/>
+When I was a kid, I enjoyed multiplying by 2. I would get a pencil and a piece of paper, start with the number 1, and multiply by 2. At the time, I didn't realize I was creating a funky binary sequence by doing that:
+
+| Decimal       | Binary        |
+|:-------------:|:-------------:|
+| 1             | 1             |
+| 2             | 10            |
+| 4             | 100           |
+| 8             | 1000          |
+| 16            | 10000         |
+| 32            | 100000        |
+| ...           | ...           |
+| 2048          | 100000000000  |
+| ...           | ...           |
+| 33554432      | ...           |
+
+Did you ever play some kind of mathematical game with yourself? Did you ever enjoy thinking about shapes?
 
 > If I'm in the mood to think about shapes - and I often am - I might imagine a triangle inside a rectangular box.
 
@@ -27,17 +46,17 @@ This will mainly contain excerpts from the original text, so it should be a dece
 
 > Obviously the current practical training program isn’t working, and for good reason: it is excruciatingly boring, and nobody ever uses it anyway. So why do people think it’s so important? I don’t see how it’s doing society any good to have its members walking around with vague memories of algebraic formulas and geometric diagrams, and clear memories of hating them.
 
-<br/><br/>
+People are constantly trying to improve the established programs, moving things around and looking for the correct way to guide kids to mathematical mastery. It isn't working.
 
 > All this fussing and primping about which "topics" should be taught in what order, or the use of this notation instead of that notation, or which make and model of calculator to use, for god’s sake - it’s like rearranging the deck chairs on the *Titanic*!
 
-<br/><br/>
+<br/>...<br/>
 
 > The saddest part of all this "reform" are the attempts to "make math interesting" and "relevant to kids' lives." You don’t need to *make* math interesting - it’s already more interesting than we can handle! And the glory of it is its complete *irrelevance* to our lives. That’s why it’s so fun!
 <br/>
 > Attempts to present mathematics as relevant to daily life inevitably appear forced and contrived: "You see kids, if you know algebra then you can figure out how old Maria is if we know that she is two years older than twice her age seven years ago!" (As if anyone would ever have access to that ridiculous kind of information, and not her age.) Algebra is not about daily life, it's about numbers and symmetry - and this is a valid pursuit in and of itself:
 <br/>
-> Suppose I am given the sum and difference of two numbers. How can I figure out what the numbers are themselves?
+> `Suppose I am given the sum and difference of two numbers. How can I figure out what the numbers are themselves?`
 <br/>
 > Here is a simple and elegant question, and it requires no effort to be made appealing. The ancient Babylonians enjoyed working on such problems, and so do our students. (And I hope you will enjoy thinking about it too!) We don’t need to bend over backwards to give mathematics relevance. It has relevance in the same way that any art does: that of being a meaningful human experience.
 
