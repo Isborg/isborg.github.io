@@ -11,7 +11,7 @@ The essay has inspired both possitive and negative responses regarding how math 
 
 ### Lamentation
 
-The book is divided in two parts, Lamentation explains what the current system looks like, what children are put through week after week.
+The book is divided into two parts, Lamentation explains what the current system looks like, what children are put through week after week.
 
 > The only people who understand what is going on are the ones most often blamed and least often heard: the students. They say, "Math class is stupid and boring," and they are right.
 
