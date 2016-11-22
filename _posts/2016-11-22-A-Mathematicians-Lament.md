@@ -97,7 +97,7 @@ Richard Feynman favored *clear language* over *precise language*. What good is i
 
 > Does any middle school algebra teacher have the slightest clue why he is asking his students to rephrase "the number *x* lies between three and seven" as &#124;x - 5&#124; < 2 ? Do these hopelessly inept textbook authors really believe they are helping students by preparing them for a possible day, years hence, when they might be operating within the context of a higher-dimensional geometry or an abstract metric space? I doubt it. I expect they are simply copying each other decade after decade, maybe changing the fonts or the highlight colors, and beaming with pride when a school system adopts their book and becomes their unwitting accomplice.
 
-Lockhart's essay contains recurring conversations between Simplicio, who doesn't see the problems in the current education system, and Salviati, who proposes radical changes to encourage discovery. Although they start out with very points of view, they are incredibly respectful and care to understand the each other.
+Lockhart's essay contains recurring conversations between Simplicio, who doesn't see the problems in the current education system, and Salviati, who proposes radical changes to encourage discovery. Although they start out with very different points of view, they are actually respectful and try to understand each other.
 
 > **SIMPLICIO:** I'm getting tired of all your mystical mumbo-jumbo! Basic arithmetic, all right? Do you or do you not agree that students should learn it?
 <br/>
