@@ -101,7 +101,27 @@ Lockhart's essay contains recurring conversations between Simplicio, who doesn't
 
 > **SIMPLICIO:** I'm getting tired of all your mystical mumbo-jumbo! Basic arithmetic, all right? Do you or do you not agree that students should learn it?
 <br/>
-> **SALVIATI:** That depends on what you mean by "it." If you mean having an appreciation for the problems of counting and arranging, the advantages of grouping and naming, the distinction between a representation and the thing itself, and some idea of the historical development of number systems, then yes, I do think our students should be exposed to such things. If you mean the rote memorization of arithmetic facts without any underlying conceptual framework, then no. If you mean exploring the not-at-all obvious fact that five groups of seven is the same as seven groups of five, then yes. If you mean making a rule that 5 × 7 = 7 × 5, then no. Doing mathematics should always mean discovering patterns and crafting beautiful and meaningful explanations. �atently obvious statement about lines and angles must then be "proved."
+> **SALVIATI:** That depends on what you mean by "it." If you mean having an appreciation for the problems of counting and arranging, the advantages of grouping and naming, the distinction between a representation and the thing itself, and some idea of the historical development of number systems, then yes, I do think our students should be exposed to such things. If you mean the rote memorization of arithmetic facts without any underlying conceptual framework, then no. If you mean exploring the not-at-all obvious fact that five groups of seven is the same as seven groups of five, then yes. If you mean making a rule that 5 × 7 = 7 × 5, then no. Doing mathematics should always mean discovering patterns and crafting beautiful and meaningful explanations.
+
+Let's take a look at the way proofs are handled in school.
+
+> A proof, that is, a mathematical argument, is a work of fiction, a poem. Its goal is to *satisfy*. A beautiful proof should explain, and it should explain clearly, deeply, and elegantly. A well-written, well-crafted argument should feel like a splash of cool water, and be a beacon of light - it should refresh the spirit and illuminate the mind. And it should be *charming*.
+<br/>
+> There is nothing charming about what passes for proof in geometry class. Students are presented a rigid and dogmatic format in which their so-called "proofs" are to be conducted - a format as unnecessary and inappropriate as insisting that children who wish to plant a garden refer to their flowers by genus and species.
+<br/>
+> Let's look at some specific instances of this insanity. We'll begin with the example of two crossed lines.
+
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/5.jpg" /></div>
+
+> Now the first thing that usually happens is the unnecessary muddying of the waters with excessive notation. Apparently, one cannot simply speak of two crossed lines; one must give elaborate names to them. And not simple names like 'line 1' and 'line 2,' or even 'a' and 'b.' We must (according to high school geometry) select random and irrelevant points on these lines, and then refer to the lines using the special "line notation."
+
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/6.jpg" /></div>
+
+> You see, now we get to call them *AB* and *CD*. And god forbid you should omit the little bars on top - 'AB' refers to the *length* of the line *AB* (at least I think that's how it works). Never mind how pointlessly complicated it is, this is the way one must learn to do it. Now comes the actual statement, usually referred to by some absurd name like:
+
+<div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/7.jpg" /></div>
+
+> In other words, the angles on both sides are the same. Well, duh! The configuration of two crossed lines is *symmetrical* for crissake. And as if this weren't bad enough, this patently obvious statement about lines and angles must then be "proved."
 
 <div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/8.jpg" /></div>
 
