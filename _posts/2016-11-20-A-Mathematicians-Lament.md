@@ -148,4 +148,4 @@ I will leave you with one final adventure for now.
 
 <div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/15.jpg" /></div>
 
-Let me know what you come up with!
+**Let me know what you come up with!**
