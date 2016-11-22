@@ -117,7 +117,9 @@ Let's take a look at the way proofs are handled in school.
 
 <div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/6.jpg" /></div>
 
-> You see, now we get to call them *AB* and *CD*. And god forbid you should omit the little bars on top - 'AB' refers to the *length* of the line *AB* (at least I think that's how it works). Never mind how pointlessly complicated it is, this is the way one must learn to do it. Now comes the actual statement, usually referred to by some absurd name like:
+> You see, now we get to call them *AB* and *CD*.
+<br/>
+> Never mind how pointlessly complicated it is, this is the way one must learn to do it. Now comes the actual statement, usually referred to by some absurd name like:
 
 <div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/7.jpg" /></div>
 
