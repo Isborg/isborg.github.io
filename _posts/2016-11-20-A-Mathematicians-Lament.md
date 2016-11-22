@@ -18,17 +18,15 @@ The book is divided in two parts, Lamentation explains what the current system l
 When I was a kid, I enjoyed multiplying by 2. I would get a pencil and a piece of paper, start with the number 1, and multiply by 2. At the time, I didn't realize I was creating a funky binary sequence by doing that:
 
 | Decimal       | Binary        |
-| -------------:|:------------- |
+|:-------------:|:-------------:|
 | 1             | 1             |
 | 2             | 10            |
 | 4             | 100           |
 | 8             | 1000          |
 | 16            | 10000         |
 | 32            | 100000        |
+| 64            | 1000000       |
 | ...           | ...           |
-| 2048          | 100000000000  |
-| ...           | ...           |
-| 8388608       | ...           |
 
 Did you ever play some kind of mathematical game with yourself? Did you ever enjoy thinking about shapes?
 
@@ -104,7 +102,7 @@ Lockhart's essay contains recurring conversations between Simplicio, who doesn't
 
 > **SIMPLICIO:** I'm getting tired of all your mystical mumbo-jumbo! Basic arithmetic, all right? Do you or do you not agree that students should learn it?
 <br/>
-> **SALVIATI:** That depends on what you mean by "it." If you mean having an appreciation for the problems of counting and arranging, the advantages of grouping and naming, the distinction between a representation and the thing itself, and some idea of the historical development of number systems, then yes, I do think our students should be exposed to such things. If you mean the rote memorization of arithmetic facts without any underlying conceptual framework, then no. If you mean exploring the not-at-all obvious fact that five groups of seven is the same as seven groups of five, then yes. If you mean making a rule that 5 × 7 = 7 × 5, then no. Doing mathematics should always mean discovering patterns and craf atently obvious statement about lines and angles must then be "proved."
+> **SALVIATI:** That depends on what you mean by "it." If you mean having an appreciation for the problems of counting and arranging, the advantages of grouping and naming, the distinction between a representation and the thing itself, and some idea of the historical development of number systems, then yes, I do think our students should be exposed to such things. If you mean the rote memorization of arithmetic facts without any underlying conceptual framework, then no. If you mean exploring the not-at-all obvious fact that five groups of seven is the same as seven groups of five, then yes. If you mean making a rule that 5 × 7 = 7 × 5, then no. Doing mathematics should always mean discovering patterns and craf�atently obvious statement about lines and angles must then be "proved."
 
 <div style="text-align:center"><img src="http://isbaum.com/images/AMathematiciansLament/8.jpg" /></div>
 
@@ -140,3 +138,11 @@ After exposing several interesting complaints, Lamentation ends with what I cons
 > **SALVIATI:** Well, I think I have an idea about a pyramid inside a cube...
 
 ### Exultation
+
+The second part of the book, Exultation, attempts to show us what we're missing out on. It serves as an introduction to the real adventure that is mathematics. Lockhart tries to teach us how to play around in Mathematical Reality. I don't wish to expose much of Exultation here, I do encourage you to [buy the book](https://www.amazon.com/Mathematicians-Lament-School-Fascinating-Imaginative/dp/1934137170).
+
+I will leave you with one final adventure for now.
+
+> Here are two points on one side of a straight line. The question is, what is the shortest path from one point to the other that touches the line?
+
+Let me know what you come up with!
