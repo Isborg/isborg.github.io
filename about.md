@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-(( CRAYOLA (( >
+<div style="text-align:center"><img src="http://isbaum.com/images/CV Ismael Baum.jpg" /></div>
 
 ### Contact me
 
