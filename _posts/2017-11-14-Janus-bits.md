@@ -4,7 +4,6 @@ title: Janus bits
 ---
 
 <table>
-  <tr><th>Pieza</th><th>Binario</th></tr>
   <tr><td>&#9812;</td><td>1010</td></tr>
   <tr><td>&#9813;</td><td>1011</td></tr>
   <tr><td>&#9814;</td><td>1100</td></tr>
@@ -20,10 +19,12 @@ title: Janus bits
 </table>
 
 <table>
-  <tr><td>&#9820;</td><td>&#9822;</td><td>&#9821;</td><td>&#9819;</td><td>&#9818;</td><td>&#9821;</td><td>&#9822;</td><td>&#9820;</td></tr>
+  <tr><td style="background-color: #cdcdcd;">&#9820;</td><td>&#9822;</td><td>&#9821;</td><td>&#9819;</td><td>&#9818;</td><td>&#9821;</td><td>&#9822;</td><td>&#9820;</td></tr>
   <tr><td>&#9823;</td><td>&#9823;</td><td>&#9823;</td><td>&#9823;</td><td>&#9823;</td><td>&#9823;</td><td>&#9823;</td><td>&#9823;</td></tr>
-  <tr><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/></tr>
-  <tr><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/></tr>
-  <tr><td>&#9817;</td><td>&#9817;</td><td>&#9817;</td><td>&#9817;</td><td>&#9817;</td><td>&#9817;</td><td>&#9817;</td><td>&#9817;</td></tr>
-  <tr><td>&#9814;</td><td>&#9816;</td><td>&#9815;</td><td>&#9813;</td><td>&#9812;</td><td>&#9815;</td><td>&#9816;</td><td>&#9814;</td></tr>
+  <tr><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/></tr>
+  <tr><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/></tr>
+  <tr><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/></tr>
+  <tr><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/><td style="background-color: #cdcdcd;"/><td/></tr>
+  <tr><td>&#9817;</td><td style="background-color: #cdcdcd;">&#9817;</td><td>&#9817;</td><td style="background-color: #cdcdcd;">&#9817;</td><td>&#9817;</td><td style="background-color: #cdcdcd;">&#9817;</td><td>&#9817;</td><td style="background-color: #cdcdcd;">&#9817;</td></tr>
+  <tr><td style="background-color: #cdcdcd;">&#9814;</td><td>&#9816;</td><td style="background-color: #cdcdcd;">&#9815;</td><td>&#9813;</td><td style="background-color: #cdcdcd;">&#9812;</td><td>&#9815;</td><td style="background-color: #cdcdcd;">&#9816;</td><td>&#9814;</td></tr>
 </table>
