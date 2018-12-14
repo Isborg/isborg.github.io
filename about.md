@@ -9,3 +9,4 @@ permalink: /about/
 ### Contact me
 
 [ismael.baum@gmail.com](mailto:ismael.baum@gmail.com)
+
